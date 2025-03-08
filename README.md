@@ -17,14 +17,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer specializing in
 - **Tools:** Git, GitHub, Docker
 - **Data:** Pandas, NumPy, Scikit-learn, TensorFlow
 
-## 💼 Projects
-
-Here are a few projects I've been working on:
-
-- **[AI/ML Credit Risk Model](https://github.com/yourusername/credit-risk-model):** A machine learning model to predict credit risk for leasing companies.
-- **[Svelte Portfolio](https://github.com/yourusername/svelte-portfolio):** A Svelte-based portfolio website, currently being customized and deployed to GitHub Pages.
-- **[Project Name](https://github.com/yourusername/project-name):** Brief description of the project.
-
 ## 📊 GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=seifeddinerezgui&show_icons=true&theme=radical)
