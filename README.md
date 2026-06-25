@@ -4,8 +4,6 @@ Welcome to my GitHub profile! I'm a passionate Software Engineer specializing in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on an AI/ML model for credit risk prediction
-- 🌱 I’m learning more about Svelte and web development
 - 👨‍💻 All of my projects are available at (https://seifeddinerezgui.github.io/MyPortfolio)
 - 💬 Ask me about Angular, Spring Boot, MySQL, and AI/ML in fintech
 - 📫 How to reach me: (rezguiseifeddine@gmail.com)
