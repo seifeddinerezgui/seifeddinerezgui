@@ -64,8 +64,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=seifeddinerezgui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifeddinerezgui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=seifeddinerezgui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=seifeddinerezgui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165">
 
 <br><br>
 
@@ -73,7 +73,12 @@
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=seifeddinerezgui&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="GitHub Trophies">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifeddinerezgui&theme=tokyonight" alt="Profile Details" width="95%">
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seifeddinerezgui&theme=tokyonight" alt="Stats" height="180">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seifeddinerezgui&theme=tokyonight" alt="Repos per Language" height="180">
 
 <br><br>
 
